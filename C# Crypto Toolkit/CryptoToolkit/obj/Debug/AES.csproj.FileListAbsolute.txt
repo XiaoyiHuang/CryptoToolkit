@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\AES\AES\bin\Debug\AES.exe.config
+C:\Users\Administrator\source\repos\AES\AES\bin\Debug\AES.exe
+C:\Users\Administrator\source\repos\AES\AES\bin\Debug\AES.pdb
+C:\Users\Administrator\source\repos\AES\AES\obj\Debug\AES.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\AES\AES\obj\Debug\AES.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\AES\AES\obj\Debug\AES.exe
+C:\Users\Administrator\source\repos\AES\AES\obj\Debug\AES.pdb
